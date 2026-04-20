@@ -21,7 +21,7 @@
 
 # 3c(8) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/Numericcheck.png
 # 3c(9) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/Randomstring.png
-
+# 3c(10) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/WordCountDemo.png
 # 3b(4) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/PalindreomeCheck.png
 
 
