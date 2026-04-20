@@ -6,7 +6,7 @@
 # 2a) o/p: https://github.com/mukthanu76-coder/Java-Assignment/blob/main/StringOperationsDemo.png
 # 2b) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/PerformanceTest.png
 
-
+# 3a) o/p: https://github.com/mukthanu76-coder/Java-Assignment/blob/main/StringOperationsDemo.png
 # 3b(1) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/NullOrEmpty.png
 # 3b(2) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/SubstringCount.png
 # 3b(3) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/ReverseStringDemo.png
