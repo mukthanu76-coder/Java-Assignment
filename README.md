@@ -27,7 +27,9 @@
 # 5c) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/CountryListDemo.png
 # 5d) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/CMYTabbedPane.png
 
-# 6a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/FactorialCalculator.png
+# 6a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/FactorialCalculator.png  
+  https://github.com/mukthanu76-coder/Java-Assignment/blob/main/FactorialCalculatorDemo.png
+
 
 
 
