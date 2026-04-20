@@ -39,6 +39,8 @@
 # 7b) o/p: https://github.com/mukthanu76-coder/Java-Assignment/blob/main/7b.png
    https://github.com/mukthanu76-coder/Java-Assignment/blob/main/7bth.png
 
+# 8a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/8a.png
+
 
 
 # 9)o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/9tha.png
