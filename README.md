@@ -29,6 +29,8 @@
 
 # 6a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/FactorialCalculator.png  
   https://github.com/mukthanu76-coder/Java-Assignment/blob/main/FactorialCalculatorDemo.png
+# 6 b) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/cookies.png
+
 
 
 
