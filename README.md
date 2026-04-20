@@ -14,6 +14,7 @@
 # 5c) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/CountryListDemo.png
 # 4a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/HelloSwing.png
 # 3b(1) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/NullOrEmpty.png
+# 3b(2) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/SubstringCount.png
 # 3b(3) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/ReverseStringDemo.png
 
 # 3b(5) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/RemoveWhitespaceDemo.png
