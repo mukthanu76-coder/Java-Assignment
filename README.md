@@ -1,6 +1,8 @@
  # Java-Assignment 
 
 # 1a) List Interface Demo :https://github.com/mukthanu76-coder/Java-Assignment/blob/main/ListInterfaceDemo.png
+   p1:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p1%20.png
+
 
 
 # 2a) o/p: https://github.com/mukthanu76-coder/Java-Assignment/blob/main/StringOperationsDemo.png
