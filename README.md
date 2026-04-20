@@ -42,19 +42,10 @@
 # 8a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/8a.png
    https://github.com/mukthanu76-coder/Java-Assignment/blob/main/8th.png
 # 8b) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/8b.png
-  https://github.com/mukthanu76-coder/Java-Assignment/blob/main/8bth.png
-
-
-
-
-
-
-
-
-
+  https://github.com/mukthanu76-coder/Java-Assignment/blob/main/8bth.pn
 
 # 9)o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/9tha.png
-
+# 10 a) o/p: https://github.com/mukthanu76-coder/Java-Assignment/blob/main/10th.png
 
 
 
