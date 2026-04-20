@@ -36,6 +36,8 @@
 
 # 7a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/Session.png
   https://github.com/mukthanu76-coder/Java-Assignment/blob/main/SessionManagment.png
+# 7b) o/p: https://github.com/mukthanu76-coder/Java-Assignment/blob/main/7b.png
+
 
 # 9)o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/9tha.png
 
