@@ -1,16 +1,47 @@
 <html>
 <head>
-    <title>Cookie Management</title>
+    <title>User Form</title>
+
+    <script>
+        function validateForm() {
+            let name = document.forms["f"]["username"].value;
+            let email = document.forms["f"]["email"].value;
+            let desig = document.forms["f"]["designation"].value;
+
+            if (name == "" || email == "" || desig == "") {
+                alert("All fields are required!");
+                return false;
+            }
+
+            let pattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
+            if (!email.match(pattern)) {
+                alert("Invalid Email!");
+                return false;
+            }
+            return true;
+        }
+    </script>
 </head>
+
 <body>
-    <h2>Enter Cookie Details</h2>
+<h2>User Form</h2>
 
-    <form action="addCookie.jsp" method="post">
-        Name: <input type="text" name="name" required><br><br>
-        Domain: <input type="text" name="domain" required><br><br>
-        Expiry Time (in seconds): <input type="number" name="expiry" required><br><br>
+<form name="f" action="UserDataServlet" method="post" onsubmit="return validateForm()">
+    
+    Username: <input type="text" name="username"><br><br>
+    
+    Email: <input type="text" name="email"><br><br>
+    
+    Designation:
+    <select name="designation">
+        <option value="">Select</option>
+        <option value="Student">Student</option>
+        <option value="Employee">Employee</option>
+        <option value="Manager">Manager</option>
+    </select><br><br>
 
-        <input type="submit" value="Add Cookie">
-    </form>
+    <input type="submit" value="Submit">
+</form>
+
 </body>
 </html>
