@@ -31,6 +31,8 @@
   https://github.com/mukthanu76-coder/Java-Assignment/blob/main/FactorialCalculatorDemo.png
 # 6 b) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/cookies.png
  https://github.com/mukthanu76-coder/Java-Assignment/blob/main/cookiesServlet.png
+# 6c) o/p: https://github.com/mukthanu76-coder/Java-Assignment/blob/main/Prime.png
+
 
 
 
