@@ -1,4 +1,4 @@
-# Java-Assignment 
+ # Java-Assignment 
 
 # 1a) List Interface Demo :https://github.com/mukthanu76-coder/Java-Assignment/blob/main/ListInterfaceDemo.png
 
@@ -12,6 +12,10 @@
 # 4a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/HelloSwing.png
 # 3b(1) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/NullOrEmpty.png
 # 3c(8) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/Numericcheck.png
+# 3b(4) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/PalindreomeCheck.png
+
+
+
 
 
 
