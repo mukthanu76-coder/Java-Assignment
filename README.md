@@ -40,6 +40,10 @@
    https://github.com/mukthanu76-coder/Java-Assignment/blob/main/7bth.png
 
 # 8a) o/p:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/8a.png
+   https://github.com/mukthanu76-coder/Java-Assignment/blob/main/8th.png
+
+
+
 
 
 
