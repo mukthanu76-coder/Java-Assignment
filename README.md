@@ -6,6 +6,8 @@
    p3:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p3.png 
     p4:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p4.png
     p5:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p5.png
+    p6:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p6.png
+
 
 
 
