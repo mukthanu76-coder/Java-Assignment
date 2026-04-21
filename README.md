@@ -10,16 +10,7 @@
    p7:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p7.png
   p8:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p8.png
  p9:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p9.png
-
-
-
-
-
-
-
-
-
-
+  p10:https://github.com/mukthanu76-coder/Java-Assignment/blob/main/p10.png
 
 
 # 2a) o/p: https://github.com/mukthanu76-coder/Java-Assignment/blob/main/StringOperationsDemo.png
